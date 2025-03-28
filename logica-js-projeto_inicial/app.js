@@ -2,5 +2,5 @@ function contarCaracteres (caracteres){
     return caracteres.length;
 }
 
-let caracteres = 'Olá';
+let caracteres = 'Hello';
 console.log(contarCaracteres(caracteres));
